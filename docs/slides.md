@@ -12,7 +12,7 @@ background: true
 
 # {{process.content.frontmatter.title}}
 
-_vom Comutper zum Schaal_
+_vom Comutper zum Schal_
 
 <footer>
 
@@ -25,7 +25,7 @@ _vom Comutper zum Schaal_
 ```fm
 style: image
 background:
-  iframe: https://signalwerk.github.io/dither/
+  iframe: https://signalwerk.github.io/dither/?autorefresh
 ```
 
 ## Design
@@ -112,7 +112,6 @@ background: true
 
 ## Kniterate · Software
 
-
 ![alt text](img/editor.kniterate.design_app.png)
 
 --s--
@@ -147,7 +146,6 @@ background: true
 </div>
 </div>
 
-
 --s--
 
 ```fm
@@ -159,6 +157,7 @@ background: true
 
 # [Fablab Zürich](https://zurich.fablab.ch/)
 
+Kreis 4, Zürich
 
 --s--
 
